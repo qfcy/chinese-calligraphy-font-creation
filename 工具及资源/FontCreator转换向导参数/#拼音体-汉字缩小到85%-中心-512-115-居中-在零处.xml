@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <OutlineScale>
+      <AroundType>1</AroundType>
+      <AroundCorner>4</AroundCorner>
+      <AroundXPos>0</AroundXPos>
+      <AroundYPos>0</AroundYPos>
+      <Horizontal>85.00</Horizontal>
+      <Vertical>85.00</Vertical>
+      <PreserveBearings>FALSE</PreserveBearings>
+    </OutlineScale>
+    <MetricsWidth>
+      <WidthType>0</WidthType>
+      <Width>512.00</Width>
+      <Adjust>0</Adjust>
+    </MetricsWidth>
+    <OutlinePosition>
+      <Coverage>0</Coverage>
+      <Horizontal>0</Horizontal>
+      <Vertical>115</Vertical>
+      <AroundCorner>4</AroundCorner>
+    </OutlinePosition>
+    <MetricsCenterGlyph>
+    </MetricsCenterGlyph>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+  </TransformScript>
+</DATA>

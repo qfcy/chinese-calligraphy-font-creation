@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <OutlineScale>
+      <AroundType>1</AroundType>
+      <AroundCorner>4</AroundCorner>
+      <AroundXPos>0</AroundXPos>
+      <AroundYPos>0</AroundYPos>
+      <Horizontal>95.00</Horizontal>
+      <Vertical>95.00</Vertical>
+      <PreserveBearings>TRUE</PreserveBearings>
+    </OutlineScale>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+  </TransformScript>
+</DATA>

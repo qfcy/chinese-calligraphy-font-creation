@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <MetricsWidth>
+      <WidthType>0</WidthType>
+      <Width>700</Width>
+      <Adjust>0</Adjust>
+    </MetricsWidth>
+    <OutlinePosition>
+      <Coverage>0</Coverage>
+      <Horizontal>0</Horizontal>
+      <Vertical>350</Vertical>
+      <AroundCorner>4</AroundCorner>
+    </OutlinePosition>
+    <MetricsCenterGlyph>
+    </MetricsCenterGlyph>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+  </TransformScript>
+</DATA>

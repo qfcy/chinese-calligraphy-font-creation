@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <EffectsThin>
+      <Horizontal>1</Horizontal>
+      <Vertical>1</Vertical>
+      <PreserveBearings>TRUE</PreserveBearings>
+    </EffectsThin>
+    <MetricsCenterGlyph>
+    </MetricsCenterGlyph>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+  </TransformScript>
+</DATA>
